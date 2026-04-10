@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Mahmoud Ouda | Full Stack Developer
 
-<!--
-**mahmoud20212/mahmoud20212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer specializing in building secure, scalable, and high-performance web applications.
+I combine strong backend engineering with modern frontend development to deliver complete, real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+* Full Stack Developer (Frontend + Backend)
+* Strong background in **Web Development & Information Security**
+* Experienced in building production-ready applications
+* Focused on clean architecture, performance, and maintainability
+
+I enjoy solving real-world problems through code and continuously improving my engineering skills.
+
+---
+
+### 🚀 Current Focus
+
+* Designing scalable full-stack systems
+* Building secure REST APIs and dynamic user interfaces
+* Improving application performance and security practices
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML, CSS, Bootstrap, Tailwind
+* JavaScript, React
+
+**Backend**
+
+* Python (Django)
+* PHP (Laravel)
+* Node.js
+
+**Database & Tools**
+
+* MySQL, SQL
+* REST APIs, Git, Docker
+* Web Security & Authentication
+
+---
+
+### 📫 Contact
+
+* 📧 Email: [mahmoudowda231@gmail.com](mailto:mahmoudowda231@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/mahmoud-ouda-9528aa265
+
+---
+
+💡 *Building complete systems. Not just code.*
