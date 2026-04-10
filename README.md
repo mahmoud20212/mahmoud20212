@@ -48,7 +48,7 @@ I enjoy solving real-world problems through code and continuously improving my e
 ### 📫 Contact
 
 * 📧 Email: [mahmoudowda231@gmail.com](mailto:mahmoudowda231@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/mahmoud-ouda-9528aa265
+* 💼 LinkedIn: [Mahmoud Ouda](https://www.linkedin.com/in/mahmoud-ouda-439930401/)
 
 ---
 
