@@ -1,55 +1,79 @@
-# 👋 Mahmoud Ouda | Full Stack Developer
+# 👋 Mahmoud Ouda | Information Management & Full Stack Developer
 
-Full Stack Developer specializing in building secure, scalable, and high-performance web applications.
-I combine strong backend engineering with modern frontend development to deliver complete, real-world solutions.
+Information Management and Full Stack Development professional focused on building scalable web systems, data-driven platforms, and reporting-oriented solutions.
 
----
-
-### 👨‍💻 About Me
-
-* Full Stack Developer (Frontend + Backend)
-* Strong background in **Web Development & Information Security**
-* Experienced in building production-ready applications
-* Focused on clean architecture, performance, and maintainability
-
-I enjoy solving real-world problems through code and continuously improving my engineering skills.
+I combine backend engineering, database management, and modern frontend development to create efficient, user-focused applications that support operational workflows and decision-making.
 
 ---
 
-### 🚀 Current Focus
+## 👨‍💻 About Me
 
-* Designing scalable full-stack systems
-* Building secure REST APIs and dynamic user interfaces
-* Improving application performance and security practices
+* Full Stack Developer with strong experience in backend systems and databases
+* Skilled in developing scalable web applications using Python, Django, and React
+* Experienced in data organization, reporting workflows, and system optimization
+* Passionate about building reliable systems that solve real-world operational challenges
+* Strong interest in Information Management, dashboards, and analytical reporting
+
+I enjoy transforming complex requirements into structured, maintainable, and efficient technical solutions.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Current Focus
 
-**Frontend**
+* Building scalable information systems and reporting platforms
+* Developing secure REST APIs and database-driven applications
+* Improving data workflows, reporting efficiency, and system performance
+* Expanding skills in data analysis, dashboards, and operational reporting
 
-* HTML, CSS, Bootstrap, Tailwind
-* JavaScript, React
+---
 
-**Backend**
+## 🛠️ Tech Stack
 
-* Python (Django)
+### Backend & Systems
+
+* Python, Django, Django REST Framework
 * PHP (Laravel)
 * Node.js
 
-**Database & Tools**
+### Frontend
 
-* MySQL, SQL
-* REST APIs, Git, Docker
-* Web Security & Authentication
+* React.js
+* JavaScript (ES6+)
+* HTML5, CSS3
+* Bootstrap, Tailwind CSS
+
+### Databases & Reporting
+
+* MySQL, PostgreSQL, SQL
+* Data Validation & Data Organization
+* Reporting Workflows
+* Excel & Power BI
+
+### Tools & Technologies
+
+* REST APIs
+* Git & GitHub
+* Docker
+* Authentication & Web Security
 
 ---
 
-### 📫 Contact
+## 📌 Areas of Interest
+
+* Information Management
+* Data Analysis & Reporting
+* Dashboard Development
+* Database Systems
+* Humanitarian Technology Solutions
+* Scalable Web Platforms
+
+---
+
+## 📫 Contact
 
 * 📧 Email: [mahmoudowda231@gmail.com](mailto:mahmoudowda231@gmail.com)
-* 💼 LinkedIn: [Mahmoud Ouda](https://www.linkedin.com/in/mahmoud-ouda-439930401/)
+* 💼 LinkedIn: linkedin.com/in/mahmoud-ouda-439930401
 
 ---
 
-💡 *Building complete systems. Not just code.*
+💡 Building scalable systems, data-driven solutions, and real-world applications.
