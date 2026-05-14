@@ -72,7 +72,6 @@ I enjoy transforming complex requirements into structured, maintainable, and eff
 ## 📫 Contact
 
 * 📧 Email: [mahmoudowda231@gmail.com](mailto:mahmoudowda231@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/mahmoud-ouda-439930401
 
 ---
 
