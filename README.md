@@ -6,10 +6,12 @@ I build intelligent automation solutions and scalable web applications that solv
 
 ### About Me
 
-- AI Automation, AI Agents, RAG Systems & n8n Workflows
-- Full-Stack Development with Python, Django, Laravel & React
-- LLMs, MCP, REST APIs & System Integrations
-- Passionate about building reliable, efficient, and maintainable solutions
+I'm a software developer focused on combining AI, automation, and web technologies to build practical solutions for real-world challenges.
+
+- Developing intelligent systems and AI-powered automation workflows
+- Building scalable web applications and backend services
+- Focused on clean architecture, performance, and maintainable code
+- Continuously exploring emerging technologies in AI and software engineering
 
 ### Tech Stack
 
