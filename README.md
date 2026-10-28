@@ -1,55 +1,31 @@
-# 👋 Mahmoud Ouda | Full Stack Developer
+# Hi, I'm Mahmoud Ouda 👋
 
-Full Stack Developer specializing in building secure, scalable, and high-performance web applications.
-I combine strong backend engineering with modern frontend development to deliver complete, real-world solutions.
+**AI Automation Engineer | AI Agents & RAG Systems | Full-Stack Developer**
 
----
+I build intelligent automation solutions and scalable web applications that solve real-world problems and improve business efficiency.
 
-### 👨‍💻 About Me
+### About Me
 
-* Full Stack Developer (Frontend + Backend)
-* Strong background in **Web Development & Information Security**
-* Experienced in building production-ready applications
-* Focused on clean architecture, performance, and maintainability
+- AI Automation, AI Agents, RAG Systems & n8n Workflows
+- Full-Stack Development with Python, Django, Laravel & React
+- LLMs, MCP, REST APIs & System Integrations
+- Passionate about building reliable, efficient, and maintainable solutions
 
-I enjoy solving real-world problems through code and continuously improving my engineering skills.
+### Tech Stack
 
----
+**AI & Automation:** Python, n8n, LLMs, RAG, MCP
 
-### 🚀 Current Focus
+**Backend:** Django, FastAPI, Laravel, Node.js
 
-* Designing scalable full-stack systems
-* Building secure REST APIs and dynamic user interfaces
-* Improving application performance and security practices
+**Frontend:** React, Next.js, JavaScript, Tailwind CSS
 
----
+**Tools & Databases:** PostgreSQL, MySQL, Redis, Docker, Git
 
-### 🛠️ Tech Stack
+### Connect
 
-**Frontend**
-
-* HTML, CSS, Bootstrap, Tailwind
-* JavaScript, React
-
-**Backend**
-
-* Python (Django)
-* PHP (Laravel)
-* Node.js
-
-**Database & Tools**
-
-* MySQL, SQL
-* REST APIs, Git, Docker
-* Web Security & Authentication
+- **LinkedIn:** [Mahmoud Ouda](https://www.linkedin.com/in/mahmoud-ouda-it/)
+- **Email:** [mahmoudouda.it@gmail.com](mailto:mahmoudodua.it@gmail.com)
 
 ---
 
-### 📫 Contact
-
-* 📧 Email: [mahmoudowda231@gmail.com](mailto:mahmoudowda231@gmail.com)
-* 💼 LinkedIn: [Mahmoud Ouda](https://www.linkedin.com/in/mahmoud-ouda-439930401/)
-
----
-
-💡 *Building complete systems. Not just code.*
+*Building intelligent solutions through AI and software engineering.*
